@@ -366,7 +366,7 @@ Services that are hosted globally create resources that operate across multiple 
 | VMware Solutions | Hosted Globally | Hosted Globally | 
 | VPN for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Virtual Private Cloud | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Virtual Server for VPC |  |  | 
+| Virtual Server for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Visual Recognition |  |  | 
 | Voice Agent with Watson |  |  | 
 | Watson Assistant | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
