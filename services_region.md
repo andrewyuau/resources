@@ -274,7 +274,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Automated Accessibility Tester | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  | 
 | Availability Monitoring | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | BigInsights for Apache Hadoop (Subscription) |  |  | 
-| Block Storage for VPC |  |  | 
+| Block Storage for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Blockchain | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  | 
 | Blockchain Platform |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Certificate Manager | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
